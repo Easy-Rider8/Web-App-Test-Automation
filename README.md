@@ -38,15 +38,4 @@ behave
 ```
 This command reads the scenario files in the features directory and executes the tests.
 
-## Contributing
-
-Fork this repository.
-
-Create a new branch (git checkout -b feature/somefeature).
-
-Commit your changes (git commit -am 'Add some feature').
-
-Push your branch (git push origin feature/feature).
-
-Open a pull request.
 
