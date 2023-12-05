@@ -1,0 +1,47 @@
+{
+    "users":
+    [
+            {
+                "id": "01",
+                "role": "admin",
+                "username": "admin",
+                "password": "admin_validpass"
+            },
+            {
+                "id": "02",
+                "role": "standart_user",
+                "username": "standart_user",
+                "password": "standart_uservalidpass"
+            },
+            {
+                "id": "03",
+                "role": "restricted_user",
+                "username": "restricted_user",
+                "password": "restricted_uservalidpass"
+            },
+            {
+                "id": "04",
+                "role": "invalid_user",
+                "username": "invalidUser",
+                "password": "validpass"
+            },
+            {
+                "id": "05",
+                "role": "invalid_password",
+                "username": "validUser",
+                "password": "1nvalid9a55w0rd"
+            },
+            {
+                "id": "06",
+                "role": "empty_username",
+                "username": "",
+                "password": "1nvalid9a55w0rd"
+            },
+            {
+                "id": "07",
+                "role": "empty_password",
+                "username": "u5ern4me",
+                "password": ""
+            }
+    ]    
+}
